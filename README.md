@@ -33,3 +33,10 @@
 ## 注意事項
 
 本工具僅供財務規劃與教育用途，不構成投資建議。試算採簡化假設，實際結果仍會受到市場波動、稅費及個人狀況影響。
+
+## 創建者
+
+核苷酸
+
+- YouTube：[nucleotide_journey](https://www.youtube.com/@nucleotide_journey)
+- Email：[nucleotide.journey@gmail.com](mailto:nucleotide.journey@gmail.com)

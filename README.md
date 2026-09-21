@@ -13,7 +13,7 @@
 
 1. 在 GitHub 建立一個 Public repository，例如 `retirement-calculator`。
 2. 點選 `Add file` → `Upload files`。
-3. 將本資料夾內的 `index.html` 與 `README.md` 上傳到 Repository 最外層。
+3. 將本資料夾內的 `index.html`、`sitemap.xml`、`robots.txt`、`og.png` 與 `README.md` 上傳到 Repository 最外層。
 4. 點選 `Commit changes`。
 5. 前往 `Settings` → `Pages`。
 6. 在 Build and deployment 中選擇：
@@ -29,6 +29,8 @@
 ## 更新網站
 
 未來只要以新版 `index.html` 覆蓋原檔並 Commit，GitHub Pages 就會重新發布。
+
+若 SEO 設定或分享縮圖有更新，也請一併覆蓋 `sitemap.xml`、`robots.txt` 與 `og.png`。
 
 ## 注意事項
 

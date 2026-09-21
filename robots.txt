@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b313103004.github.io/4-retirement-calculator/sitemap.xml
